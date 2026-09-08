@@ -1,4 +1,4 @@
-# 拾光记 · ShiGuangJi
+# 拾光记 · time-gleanings
 
 > 拾起时光，记录美好 —— 基于 HarmonyOS (ArkTS) + Node.js + MySQL 的日记应用课程设计
 
