@@ -1,0 +1,6 @@
+{
+  "src": [
+    "pages/login/login",
+    "pages/journal/JournalIndex"
+  ]
+}
